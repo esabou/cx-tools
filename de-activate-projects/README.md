@@ -1,5 +1,3 @@
-Here’s the updated `README.md` that includes documentation for the new `filter_projects.py` script:
-
 ---
 
 ````markdown
@@ -105,9 +103,4 @@ Replace `activate` with `deactivate` to change project status accordingly.
 
 MIT
 
-```
-
----
-
-Let me know if you'd like this broken into multiple smaller README sections or want me to generate a `requirements.txt` or CLI help for each script.
 ```
